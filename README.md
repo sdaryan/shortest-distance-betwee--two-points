@@ -2,6 +2,8 @@
 
 The sum of the shortest distance between two points from the total of three types of input numbers
 
+Three old friends want to meet each other on the occasion of the Persian New Year. Azarmehr, Azargoun, and Mehrayan plan to meet at a point where their houses lie on a straight line (the x-axis). Azarmehr's house is located at point x1, Azargoun's house is at point x2, and Mehrayan's house is at point x3. They want to travel the minimum total distance to meet each other at a single point. Given x1, x2, and x3, calculate the minimum distance that these three friends must travel in total to meet each other at a single point. Please print the answer without a decimal point if it is an integer. Note that we are interested in the minimum distance they have to travel, not the meeting location itself.
+
 ## Input:
 6 9 10
 
